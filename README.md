@@ -1,2 +1,2 @@
 # mypolicy
-POC on angular 7 which deal basically policy management.
+POC on angular 7 which deals with policy management.
